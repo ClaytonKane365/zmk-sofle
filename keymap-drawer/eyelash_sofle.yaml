@@ -58,7 +58,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - '&tdwm'
   - {t: '$$mdi:keyboard-space$$', h: layer1}
-  - {t: '$$mdi:backspace-reverse-outline$$', h: '$$mdi:apple-keyboard-control$$'}
+  - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', h: win_l2}
   - $$mdi:keyboard-space$$
@@ -123,7 +123,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - '&tdmw'
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:backspace-reverse-outline$$', h: '$$mdi:apple-keyboard-command$$'}
+  - $$mdi:apple-keyboard-command$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:keyboard-return$$', h: mac_l2}
   - {t: '$$mdi:transfer$$', type: trans}
